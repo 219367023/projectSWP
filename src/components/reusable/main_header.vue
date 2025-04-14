@@ -41,7 +41,7 @@ export default {
 }
 
 .logo .red {
-  color: #e63950;
+  color: #e6b839;
 }
 
 .logo .blue {
