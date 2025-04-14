@@ -2,7 +2,7 @@
   <section class="landing-page">
     <!-- Hero Section -->
     <div class="hero">
-      <h2>Save up to <span class="highlight">26%</span> on your next hotel stay</h2>
+      <h2>Save up to <span class="highlight">15%</span> on your next trip</h2>
       
 
       <div style="display: none;" class="search-bar">
@@ -31,6 +31,14 @@
         <div class="card">
           <img src="../assets/1dad8cb00bb1d7897300f1023c29b0b85f24931e0345770dc2ab74798ec7.avif" alt="Cabanas Hotel" />
           <p class="card-title">The Cabanas Hotel at Sun City</p>
+          <br>
+          <br>
+          <p>
+            The Smart Travel Planner Web App is designed to assist users in planning trips by generating
+            customized travel plans based on their interests, preferences, and available time. The Web app
+            integrates real-time travel information, user-generated insights, and AI-driven recommendations to
+            enhance the travel planning experience
+          </p>
         </div>
       </div>
     </div>
