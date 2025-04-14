@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h2>Register</h2>
+    <h2>Register now</h2>
     <form @submit.prevent="register" class="register-form">
       <div class="form-group">
         <input v-model="user.username" placeholder="Username" required @input="validateUsername" />

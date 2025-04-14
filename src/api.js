@@ -14,3 +14,4 @@ export const updateUserProfile = (token, userData) =>
     axios.put(`${API_URL}/profile`, userData, { headers: { Authorization: token } });
 export const deleteUserProfile = (token) =>
     axios.delete(`${API_URL}/profile`, { headers: { Authorization: token } });
+

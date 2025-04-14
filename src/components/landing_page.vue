@@ -2,8 +2,8 @@
   <section class="landing-page">
     <!-- Hero Section -->
     <div class="hero">
-      <h2>Save up to <span class="highlight">45%</span> on your next hotel stay</h2>
-      <p>We compare hotel prices from over 100 sites</p>
+      <h2>Save up to <span class="highlight">25%</span> on your next hotel stay</h2>
+      
 
       <div style="display: none;" class="search-bar">
         <input type="text" placeholder="Where to?" class="search-input" />
