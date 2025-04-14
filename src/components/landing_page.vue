@@ -34,13 +34,6 @@
         </div>
       </div>
     </div>
-    <br>
-    <p>
-      The Smart Travel Planner Web App is designed to assist users in planning trips by generating
-      customized travel plans based on their interests, preferences, and available time. The Web app
-      integrates real-time travel information, user-generated insights, and AI-driven recommendations to
-      enhance the travel planning experience
-    </p>
   </section>
 </template>
 
