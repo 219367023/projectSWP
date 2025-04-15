@@ -7,9 +7,9 @@
 
       <div style="display: none;" class="search-bar">
         <input type="text" placeholder="Where to?" class="search-input" />
-        <input type="text" placeholder="Check in --/--/--" class="search-input" />
-        <input type="text" placeholder="Check out --/--/--" class="search-input" />
-        <input type="text" placeholder="2 Guests, 1 Room" class="search-input" />
+        <input type="text" placeholder="Start date --/--/--" class="search-input" />
+        <input type="text" placeholder="End date --/--/--" class="search-input" />
+   
         <button class="search-button">Search</button>
       </div>
       <search_tool></search_tool>
