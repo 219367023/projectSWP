@@ -27,7 +27,7 @@
       </div>
 
       <div class="form-group">
-        <input v-model="user.dietary_restrictions" placeholder="E.g., Vegetarian, Halal" />
+        <input v-model="user.dietary_restrictions" placeholder="Diet restrictions()" />
       </div>
 
       <div class="form-group">
