@@ -31,11 +31,11 @@
       </div>
 
       <div class="form-group">
-        <input v-model="user.accessibility_needs" placeholder="E.g., Wheelchair access" />
+        <input v-model="user.accessibility_needs" placeholder="Disablitiy(option)" />
       </div>
 
       <div class="form-group">
-        <input v-model="user.language_preferences" placeholder="E.g., English, Zulu" />
+        <input v-model="user.language_preferences" placeholder="Language" />
       </div>
 
       <button type="submit" class="register-btn" :disabled="hasErrors">Register</button>
