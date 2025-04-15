@@ -2,7 +2,7 @@
   <section class="landing-page">
     <!-- Hero Section -->
     <div class="hero">
-      <h2>Save up to <span class="highlight">15%</span> on your next trip</h2>
+      <h2>Save up to <span class="highlight">16%</span> on your next trip</h2>
       
 
       <div style="display: none;" class="search-bar">
