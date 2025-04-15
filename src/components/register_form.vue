@@ -27,11 +27,11 @@
       </div>
 
       <div class="form-group">
-        <input v-model="user.dietary_restrictions" placeholder="Diet restrictions()" />
+        <input v-model="user.dietary_restrictions" placeholder="Diet restrictions(e.g vegetarian)" />
       </div>
 
       <div class="form-group">
-        <input v-model="user.accessibility_needs" placeholder="Disablitiy(option)" />
+        <input v-model="user.accessibility_needs" placeholder="Disablitiy(optional)" />
       </div>
 
       <div class="form-group">
